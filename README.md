@@ -48,7 +48,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 **Stack técnico:**
 
-`Flutter/Dart` · `Java` · `Firebase Firestore (NoSQL)` · `Firebase Authentication` · `Android Studio`
+`Flutter/Dart` · `Firebase Firestore (NoSQL)` · `Firebase Authentication` · `Android Studio`
 
 ---
 
@@ -84,7 +84,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 **Stack técnico:**
 
-`Flutter/Dart` · `Kotlin` · `Firebase Firestore (NoSQL)` · `Firebase Storage` · `Firebase Hosting` · `Firebase Authentication`
+`Flutter/Dart` · `Firebase Firestore (NoSQL)` · `Firebase Storage` · `Firebase Hosting` · `Firebase Authentication` · `Android Studio`
 
 ---
 
