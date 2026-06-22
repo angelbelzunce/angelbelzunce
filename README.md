@@ -66,7 +66,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 <!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
 🎥 [Ver demo en vídeo](https://link-a-tu-video)
 -->
-
+<br>
 **Funcionalidades principales:**
 - Gestión de propiedades, contratos de alquiler y generación de informes fiscales.
 - Control de pagos asociados a cada propiedad.
