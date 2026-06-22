@@ -92,10 +92,10 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 | Categoría | Tecnologías |
 |---|---|
-| Lenguajes | Java, Kotlin, Dart, Python (básico) |
+| Lenguajes | Java, Kotlin, Dart, Python (básico), php (básico), HTML (básico), CSS (básico), JS(básico) |
 | Móvil | Flutter, Android Studio |
 | Backend / BBDD | Firebase (Firestore, Authentication, Storage, Hosting), SQL, NoSQL |
-| Herramientas | IntelliJ IDEA, Visual Studio Code, Git/GitHub, Claude Code, Antigravity |
+| Herramientas | IntelliJ IDEA, Visual Studio Code, Git/GitHub, Claude Code, Antigravity, MYSQLWorkbench, HeidiSQL, MongoDB |
 
 ---
 
