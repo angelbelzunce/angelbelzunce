@@ -68,9 +68,9 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 -->
 
 **Funcionalidades principales:**
-- Gestión de propiedades, inquilinos y contratos de alquiler.
+- Gestión de propiedades, contratos de alquiler y generación de informes fiscales.
 - Control de pagos asociados a cada propiedad.
-- Almacenamiento de documentos y archivos con **Firebase Storage**.
+- Almacenamiento de documentos y archivos con **Firebase Storage** (póximamente).
 - Despliegue mediante **Firebase Hosting**.
 
 **Stack técnico:**
