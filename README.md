@@ -28,9 +28,9 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 **Capturas:**
 
 <div align="center">
-<img src="screenshots/gimnasio-1.png" width="220" alt="Pantalla principal - app gimnasio"/>
-<img src="screenshots/gimnasio-2.png" width="220" alt="Detalle de rutina - app gimnasio"/>
-<img src="screenshots/gimnasio-3.png" width="220" alt="Seguimiento de progreso - app gimnasio"/>
+<img src="screenshots/gimnasio-1.png" width="200" alt="Pantalla principal - app gimnasio"/>
+<img src="screenshots/gimnasio-2.png" width="200" alt="Detalle de rutina - app gimnasio"/>
+<img src="screenshots/gimnasio-3.png" width="200" alt="Seguimiento de progreso - app gimnasio"/>
 </div>
 
 -->
@@ -58,9 +58,9 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 **Capturas:**
 
 <div align="center">
-<img src="screenshots/alquileres-1.png" width="220" alt="Listado de propiedades"/>
-<img src="screenshots/alquileres-2.png" width="220" alt="Detalle de contrato"/>
-<img src="screenshots/alquileres-3.png" width="220" alt="Gestión de pagos"/>
+<img src="screenshots/alquileres-1.png" width="200" alt="Inicio de sesión"/>
+<img src="screenshots/alquileres-2.png" width="200" alt="Detalle de contrato"/>
+<img src="screenshots/alquileres-3.png" width="200" alt="Overview"/>
 </div>
 
 <!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
