@@ -24,6 +24,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 **Descripción:** aplicación móvil para crear, asignar y seguir rutinas de entrenamiento personalizadas en un gimnasio.
 
+<!--
 **Capturas:**
 
 <div align="center">
@@ -31,6 +32,8 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 <img src="screenshots/gimnasio-2.png" width="220" alt="Detalle de rutina - app gimnasio"/>
 <img src="screenshots/gimnasio-3.png" width="220" alt="Seguimiento de progreso - app gimnasio"/>
 </div>
+
+-->
 
 <!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
 🎥 [Ver demo en vídeo](https://link-a-tu-video)
