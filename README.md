@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Ángel Belzunce Abreu
-### Desarrollador de Software · Apps Multiplataforma (Java · Kotlin · Flutter)
+# 👋 Ángel Belzunce
+### Desarrollador de Software · Apps Multiplataforma (Java · Kotlin · Dart · Flutter)
 
 📍 Villablanca, Huelva &nbsp;|&nbsp; ✉️ angelbelzuncedev@gmail.com &nbsp;|&nbsp; 📱 669 068 698
 
@@ -65,6 +65,8 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 <img src="screenshots/alquileres-5.png" width="150" alt="Listado de propiedades"/>
 <img src="screenshots/alquileres-2.png" width="150" alt="Detalle de contrato"/>
 <img src="screenshots/alquileres-6.png" width="150" alt="Detalle de abono"/>
+<img src="screenshots/alquileres-7.png" width="150" alt="Listado de contratos"/>
+<img src="screenshots/alquileres-8.png" width="150" alt="Formulario de creación de nuevo contrato"/>
 </div>
 
 <!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
