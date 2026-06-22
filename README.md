@@ -41,7 +41,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 **Funcionalidades principales:**
 - Creación y asignación de rutinas de entrenamiento personalizadas.
-- Gestión de usuarios (clientes y entrenadores).
+- Gestión de usuarios (usuario estandar y usuario PRO).
 - Seguimiento de progreso y ejercicios completados.
 - Autenticación de usuarios con **Firebase Authentication**.
 
