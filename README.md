@@ -59,14 +59,14 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 **Capturas:**
 
 <div align="center">
-<img src="screenshots/alquileres-1.png" width="150" alt="Inicio de sesión"/>
-<img src="screenshots/alquileres-4.png" width="150" alt="Centro de espacios"/>
-<img src="screenshots/alquileres-3.png" width="150" alt="Overview"/>
-<img src="screenshots/alquileres-5.png" width="150" alt="Listado de propiedades"/>
-<img src="screenshots/alquileres-2.png" width="150" alt="Detalle de contrato"/>
-<img src="screenshots/alquileres-6.png" width="150" alt="Detalle de abono"/>
-<img src="screenshots/alquileres-7.png" width="150" alt="Listado de contratos"/>
-<img src="screenshots/alquileres-8.png" width="150" alt="Formulario de creación de nuevo contrato"/>
+<img src="screenshots/alquileres-1.png" width="200" alt="Inicio de sesión"/>
+<img src="screenshots/alquileres-4.png" width="200" alt="Centro de espacios"/>
+<img src="screenshots/alquileres-3.png" width="200" alt="Overview"/>
+<img src="screenshots/alquileres-5.png" width="200" alt="Listado de propiedades"/>
+<img src="screenshots/alquileres-2.png" width="200" alt="Detalle de contrato"/>
+<img src="screenshots/alquileres-6.png" width="200" alt="Detalle de abono"/>
+<img src="screenshots/alquileres-7.png" width="200" alt="Listado de contratos"/>
+<img src="screenshots/alquileres-8.png" width="200" alt="Formulario de creación de nuevo contrato"/>
 </div>
 
 <!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
