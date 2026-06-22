@@ -40,6 +40,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 -->
 
 **Funcionalidades principales:**
+
 - Creación y asignación de rutinas de entrenamiento personalizadas.
 - Gestión de usuarios (usuario estandar y usuario PRO).
 - Seguimiento de progreso y ejercicios completados.
@@ -68,6 +69,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 -->
 
 **Funcionalidades principales:**
+
 - Gestión de propiedades, contratos de alquiler y generación de informes fiscales.
 - Control de pagos asociados a cada propiedad.
 - Almacenamiento de documentos y archivos con **Firebase Storage** (póximamente).
