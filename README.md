@@ -61,6 +61,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 <div align="center">
 <img src="screenshots/alquileres-1.png" width="200" alt="Inicio de sesión"/>
 <img src="screenshots/alquileres-4.png" width="200" alt="Centro de espacios"/>
+<img src="screenshots/alquileres-5.png" width="200" alt="Listado de propiedades"/>
 <img src="screenshots/alquileres-2.png" width="200" alt="Detalle de contrato"/>
 <img src="screenshots/alquileres-3.png" width="200" alt="Overview"/>
 </div>
