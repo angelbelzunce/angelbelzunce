@@ -16,13 +16,13 @@
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conocimientos sólidos en **Java, Kotlin y Flutter/Dart**. Desarrollo mis proyectos de forma autónoma, cubriendo todo el ciclo: diseño, base de datos, lógica de negocio e interfaz. Me motiva aprender tecnologías nuevas y resolver problemas de forma independiente.
 
-> Los repositorios de código de estos proyectos son privados. Este portfolio resume su funcionamiento, arquitectura y capturas de pantalla. Si quieres revisar el código a fondo, puedo darte acceso como colaborador — escríbeme.
+> Los repositorios de código de estos proyectos son privados. Este portfolio resume su funcionamiento, arquitectura y capturas de pantalla.
 
 ---
 
 ## 🏋️ Proyecto 1 — App de gestión de planes de entrenamiento para gimnasios (MVP)
 
-**Descripción:** aplicación móvil para crear, asignar y seguir rutinas de entrenamiento personalizadas en un gimnasio.
+**Descripción:** aplicación móvil para crear, asignar y seguir rutinas de entrenamiento personalizadas en el gimnasio y visualizar el progreso de cada usuario mediante gráficos de evolución y estadísticas.
 
 <!--
 **Capturas:**
