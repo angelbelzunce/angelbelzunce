@@ -24,16 +24,19 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 **Descripción:** aplicación móvil para crear, asignar y seguir rutinas de entrenamiento personalizadas en el gimnasio y visualizar el progreso de cada usuario mediante gráficos de evolución y estadísticas.
 
-<!--
+
 **Capturas:**
 
 <div align="center">
-<img src="screenshots/gimnasio-1.png" width="200" alt="Pantalla principal - app gimnasio"/>
-<img src="screenshots/gimnasio-2.png" width="200" alt="Detalle de rutina - app gimnasio"/>
-<img src="screenshots/gimnasio-3.png" width="200" alt="Seguimiento de progreso - app gimnasio"/>
+<img src="screenshots/gimnasio-1.png" width="200" alt="Login"/>
+<img src="screenshots/gimnasio-2.png" width="200" alt="Overview"/>
+<img src="screenshots/gimnasio-3.png" width="200" alt="Selección de ejercicio"/>
+<img src="screenshots/gimnasio-4.png" width="200" alt="Detalle de ejercicio"/>
+<img src="screenshots/gimnasio-5.png" width="200" alt="Seguimiento de evolución"/>
+<img src="screenshots/gimnasio-6.png" width="200" alt="Registro de actividad"/>
+<img src="screenshots/gimnasio-7.png" width="200" alt="Historial de entrenamientos"/>
+<img src="screenshots/gimnasio-8.png" width="200" alt="Perfil de usuario"/>
 </div>
-
--->
 
 <!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
 🎥 [Ver demo en vídeo](https://link-a-tu-video)
