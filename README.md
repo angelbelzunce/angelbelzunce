@@ -3,7 +3,7 @@
 # 👋 Ángel Belzunce
 ### Desarrollador de Software · Apps Multiplataforma (Java · Kotlin · Dart · Flutter)
 
-📍 Villablanca, Huelva &nbsp;|&nbsp; ✉️ angelbelzuncedev@gmail.com &nbsp;&nbsp; &nbsp;&nbsp; ✉️ angelbelzunce@gmail.com &nbsp;|&nbsp; 📱 669 068 698
+📍 Villablanca, Huelva &nbsp;|&nbsp; ✉️ angelbelzunce@gmail.com &nbsp;|&nbsp; 📱 669 068 698
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngelbelzunce/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelbelzunce)
