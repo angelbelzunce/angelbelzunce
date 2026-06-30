@@ -103,7 +103,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 ¿Quieres hablar sobre alguno de estos proyectos o tienes una oportunidad para mí?
 
-- ✉️ **Email:** angelbelzuncedev@gmail.com
+- ✉️ **Email:** angelbelzunce@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/ángelbelzunce](https://www.linkedin.com/in/%C3%A1ngelbelzunce/)
 - 🐙 **GitHub:** [github.com/angelbelzunce](https://github.com/angelbelzunce)
 
