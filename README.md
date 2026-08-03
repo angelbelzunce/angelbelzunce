@@ -77,7 +77,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 - Gestión de propiedades, contratos de alquiler y generación de informes fiscales.
 - Control de pagos asociados a cada propiedad.
 - Gestión de roles (propietario, agente)
-- Creación de espaciospropios, posibilidad de seleccionar agentes/gestores.
+- Creación de espacios propios, posibilidad de seleccionar agentes/gestores.
 - Almacenamiento de documentos y archivos con **Firebase Storage** (póximamente).
 - Despliegue mediante **Firebase Hosting** o **AndroidApp** (próximamente iOS).
 
