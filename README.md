@@ -14,7 +14,7 @@
 
 ## 🙋 Sobre mí
 
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conocimientos sólidos en **Java, Kotlin y Flutter/Dart**. Desarrollo mis proyectos de forma autónoma, cubriendo todo el ciclo: diseño, base de datos, lógica de negocio e interfaz. Me motiva aprender tecnologías nuevas y resolver problemas de forma independiente.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Desarrollo mis proyectos de forma autónoma, cubriendo todo el ciclo: diseño, base de datos, lógica de negocio e interfaz. Me motiva aprender tecnologías nuevas y resolver problemas de forma independiente.
 
 > Los repositorios de código de estos proyectos son privados. Este portfolio resume su funcionamiento, arquitectura y capturas de pantalla.
 
