@@ -20,34 +20,49 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con conoc
 
 ---
 
-## 🏋️ Proyecto 1 — App de gestión de planes de entrenamiento para gimnasios (MVP)
+## 🏋️ Proyecto 1 — myRoutine: app de rutinas de gimnasio
 
-**Descripción:** aplicación móvil para crear, asignar y seguir rutinas de entrenamiento personalizadas en el gimnasio y visualizar el progreso de cada usuario mediante gráficos de evolución y estadísticas.
+**Descripción:** app Android para planificar la semana de entrenamiento, registrar cada serie (repeticiones, peso y RIR) y seguir la evolución de la fuerza con gráficas y estadísticas. Desarrollada por mí de principio a fin y en fase de lanzamiento en **Google Play**, con modelo freemium (suscripción Pro y anuncios).
 
+🌐 **Web:** [myroutinefit.com](https://myroutinefit.com)
 
 **Capturas:**
 
 <div align="center">
-<img src="screenshots/gimnasio-1.png" width="200" alt="Login"/>
-<img src="screenshots/gimnasio-2.png" width="200" alt="Overview"/>
-<img src="screenshots/gimnasio-5.png" width="200" alt="Seguimiento de evolución"/>
-<img src="screenshots/gimnasio-6.png" width="200" alt="Registro de actividad"/>
+<img src="screenshots/myroutine-1.png" width="200" alt="Plan semanal"/>
+<img src="screenshots/myroutine-2.png" width="200" alt="Registro de series"/>
+<img src="screenshots/myroutine-3.png" width="200" alt="Evolución de fuerza (1RM)"/>
+<img src="screenshots/myroutine-4.png" width="200" alt="Estadísticas de progreso"/>
+<br/>
+<img src="screenshots/myroutine-5.png" width="200" alt="Planes predefinidos"/>
+<img src="screenshots/myroutine-6.png" width="200" alt="Logros por grupo muscular"/>
+<img src="screenshots/myroutine-7.png" width="200" alt="Historial de entrenamientos"/>
+<img src="screenshots/myroutine-8.png" width="200" alt="Compartir entrenamiento"/>
 </div>
-
-<!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
-🎥 [Ver demo en vídeo](https://link-a-tu-video)
--->
 
 **Funcionalidades principales:**
 
-- Creación y asignación de rutinas de entrenamiento personalizadas.
-- Gestión de usuarios (usuario estandar y usuario PRO).
-- Seguimiento de progreso y ejercicios completados.
-- Autenticación de usuarios con **Firebase Authentication**.
+- Plan semanal personalizable y rutinas predefinidas (Full Body, Empuje/Tirón/Pierna, Torso-Pierna…) asignables a los días elegidos.
+- Registro de series con repeticiones, peso y RIR, temporizador de descanso y modo de entrenamiento libre.
+- Catálogo de más de 150 ejercicios con imagen, músculo trabajado y nivel.
+- Progreso: 1RM estimado, volumen semanal, resumen mensual y distribución por grupo muscular.
+- Sistema de logros con 10 niveles por grupo muscular, constancia y fuerza.
+- Historial completo y opción de compartir cada entrenamiento como imagen.
+- Recordatorios configurables por día de la semana (notificaciones locales).
+- Suscripción **Pro** (mensual/anual con prueba gratuita) con **Google Play Billing**, y anuncios con **AdMob** y consentimiento RGPD (UMP) para usuarios estándar.
+- App bilingüe (español/inglés).
+
+**Aspectos técnicos destacados:**
+
+- Arquitectura por capas (modelos, servicios, providers y pantallas) con gestión de estado mediante **Provider**.
+- **Cloud Functions** en TypeScript para verificar compras en servidor, procesar notificaciones de suscripción en tiempo real (RTDN) y borrar todos los datos al eliminar una cuenta.
+- Estadísticas calculadas de forma incremental (coste constante por acción en lugar de releer todo el historial), para reducir lecturas de Firestore.
+- Monitorización de errores con **Crashlytics**, actualizaciones forzadas mediante **Remote Config** e In-App Updates.
+- Batería de tests unitarios sobre la lógica de estadísticas, logros y fechas.
 
 **Stack técnico:**
 
-`Flutter/Dart` · `Firebase Firestore (NoSQL)` · `Firebase Authentication` · `Android Studio`
+`Flutter/Dart` · `Firebase Firestore (NoSQL)` · `Firebase Authentication` · `Cloud Functions (TypeScript)` · `Crashlytics` · `Remote Config` · `Google Play Billing` · `AdMob` · `Android Studio`
 
 ---
 
