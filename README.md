@@ -1,32 +1,69 @@
 <div align="center">
 
-# 👋 Ángel Belzunce
-### Desarrollador de Software · Apps Multiplataforma · Bases de Datos
+# Ángel Belzunce
 
-📍 Villablanca, Huelva &nbsp;|&nbsp; ✉️ angelbelzunce@gmail.com &nbsp;|&nbsp; 📱 669 068 698
+### Desarrollador backend Java · Spring Boot · APIs REST · Microservicios
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngelbelzunce/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelbelzunce)
+📍 Villablanca, Huelva · Abierto a nuevas oportunidades
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-angelbelzunce.github.io-e3b93c?style=for-the-badge)](https://angelbelzunce.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelbelzunce)
 
 </div>
 
 ---
 
-## 🙋 Sobre mí
+## Sobre mí
 
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Desarrollo mis proyectos de forma autónoma, cubriendo todo el ciclo: diseño, base de datos, lógica de negocio e interfaz. Me motiva aprender tecnologías nuevas y resolver problemas de forma independiente.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, orientado al desarrollo backend con Java y Spring Boot. Diseño APIs bien estructuradas, con datos consistentes y pruebas automáticas.
 
-> Los repositorios de código de estos proyectos son privados. Este portfolio resume su funcionamiento, arquitectura y capturas de pantalla.
+Antes de dedicarme al software pasé 17 años administrando y gestionando negocios, lo que me ha dado autonomía, organización y trato directo con clientes.
+
+## Proyectos destacados
+
+| Proyecto | Qué hace | Tecnologías |
+|---|---|---|
+| [**API REST Bancaria**](https://github.com/angelbelzunce/mini-banco) | Backend de un banco sencillo: gestiona cuentas, transferencias entre ellas y notificaciones de cada operación. | Java 21 · Spring Boot · PostgreSQL · Kafka · Docker |
+| [**API REST Gastos Compartidos**](https://github.com/angelbelzunce/shared-expenses-api) | Reparte gastos en grupo: usuarios, grupos, invitaciones y pagos. *En desarrollo.* | Java 21 · Spring Boot · Spring Security · JWT · PostgreSQL |
+| [**myRoutine**](https://myroutinefit.com) | App Android para planificar la semana de entrenamiento y seguir la evolución de la fuerza. | Flutter · Firebase · Cloud Functions |
+
+Más detalles, esquemas y capturas en el [portfolio](https://angelbelzunce.github.io).
+
+## Tecnologías
+<div align="center">
+
+# Ángel Belzunce
+
+### Desarrollador backend Java · Spring Boot · APIs REST · Microservicios
+
+📍 Villablanca, Huelva · Abierto a nuevas oportunidades
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-angelbelzunce.github.io-e3b93c?style=for-the-badge)](https://angelbelzunce.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelbelzunce)
+
+</div>
 
 ---
 
-## 🏋️ Proyecto 1 — myRoutine: app de rutinas de gimnasio
+## Sobre mí
 
-**Descripción:** app Android para planificar la semana de entrenamiento, registrar cada serie (repeticiones, peso y RIR) y seguir la evolución de la fuerza con gráficas y estadísticas. Desarrollada por mí de principio a fin y en fase de lanzamiento en **Google Play**, con modelo freemium (suscripción Pro y anuncios).
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, orientado al desarrollo backend con Java y Spring Boot. Diseño APIs bien estructuradas, con datos consistentes y pruebas automáticas.
 
-🌐 **Web:** [myroutinefit.com](https://myroutinefit.com)
+Antes de dedicarme al software pasé 17 años administrando y gestionando negocios, lo que me ha dado autonomía, organización y trato directo con clientes.
 
-**Capturas:**
+## Proyectos destacados
+
+| Proyecto | Qué hace | Tecnologías |
+|---|---|---|
+| [**API REST Bancaria**](https://github.com/angelbelzunce/mini-banco) | Backend de un banco sencillo: gestiona cuentas, transferencias entre ellas y notificaciones de cada operación. | Java 21 · Spring Boot · PostgreSQL · Kafka · Docker |
+| [**API REST Gastos Compartidos**](https://github.com/angelbelzunce/shared-expenses-api) | Reparte gastos en grupo: usuarios, grupos, invitaciones y pagos. *En desarrollo.* | Java 21 · Spring Boot · Spring Security · JWT · PostgreSQL |
+| [**myRoutine**](https://myroutinefit.com) | App Android para planificar la semana de entrenamiento y seguir la evolución de la fuerza. | Flutter · Firebase · Cloud Functions |
+
+Más detalles y esquemas en el [portfolio](https://angelbelzunce.github.io).
+
+## myRoutine · app de rutinas de gimnasio
+
+App Android para planificar la semana de entrenamiento, registrar cada serie (repeticiones, peso y RIR) y seguir la evolución de la fuerza con gráficas y estadísticas. Desarrollada por mí de principio a fin, con suscripción Pro (Google Play Billing) y anuncios (AdMob). Web: [myroutinefit.com](https://myroutinefit.com)
 
 <div align="center">
 <img src="screenshots/myroutine-1.png" width="200" alt="Plan semanal"/>
@@ -40,85 +77,38 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Desarroll
 <img src="screenshots/myroutine-8.png" width="200" alt="Compartir entrenamiento"/>
 </div>
 
-**Funcionalidades principales:**
+`Flutter/Dart` · `Firebase Firestore` · `Firebase Authentication` · `Cloud Functions (TypeScript)` · `Crashlytics` · `Remote Config` · `Google Play Billing` · `AdMob`
 
-- Plan semanal personalizable y rutinas predefinidas (Full Body, Empuje/Tirón/Pierna, Torso-Pierna…) asignables a los días elegidos.
-- Registro de series con repeticiones, peso y RIR, temporizador de descanso y modo de entrenamiento libre.
-- Catálogo de más de 150 ejercicios con imagen, músculo trabajado y nivel.
-- Progreso: 1RM estimado, volumen semanal, resumen mensual y distribución por grupo muscular.
-- Sistema de logros con 10 niveles por grupo muscular, constancia y fuerza.
-- Historial completo y opción de compartir cada entrenamiento como imagen.
-- Recordatorios configurables por día de la semana (notificaciones locales).
-- Suscripción **Pro** (mensual/anual con prueba gratuita) con **Google Play Billing**, y anuncios con **AdMob** y consentimiento RGPD (UMP) para usuarios estándar.
-- App bilingüe (español/inglés).
+## Tecnologías
 
-**Aspectos técnicos destacados:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-- Arquitectura por capas (modelos, servicios, providers y pantallas) con gestión de estado mediante **Provider**.
-- **Cloud Functions** en TypeScript para verificar compras en servidor, procesar notificaciones de suscripción en tiempo real (RTDN) y borrar todos los datos al eliminar una cuenta.
-- Estadísticas calculadas de forma incremental (coste constante por acción en lugar de releer todo el historial), para reducir lecturas de Firestore.
-- Monitorización de errores con **Crashlytics**, actualizaciones forzadas mediante **Remote Config** e In-App Updates.
-- Batería de tests unitarios sobre la lógica de estadísticas, logros y fechas.
+**Calidad:** JUnit · Mockito · Testcontainers
 
-**Stack técnico:**
+## Contacto
 
-`Flutter/Dart` · `Firebase Firestore (NoSQL)` · `Firebase Authentication` · `Cloud Functions (TypeScript)` · `Crashlytics` · `Remote Config` · `Google Play Billing` · `AdMob` · `Android Studio`
+¿Hablamos? Escríbeme desde el [formulario del portfolio](https://angelbelzunce.github.io/#contacto) o por [LinkedIn](https://linkedin.com/in/angelbelzunce).
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## 🏠 Proyecto 2 — App de gestión de alquileres de propiedades
+**Calidad:** JUnit · Mockito · Testcontainers
 
-**Descripción:** aplicación para gestionar de forma integral propiedades en alquiler: inquilinos, contratos, pagos y documentación.
+## Contacto
 
-**Capturas:**
-
-<div align="center">
-<img src="screenshots/alquileres-1.png" width="200" alt="Inicio de sesión"/>
-<img src="screenshots/alquileres-4.png" width="200" alt="Centro de espacios"/>
-<img src="screenshots/alquileres-3.png" width="200" alt="Overview"/>
-<img src="screenshots/alquileres-5.png" width="200" alt="Listado de propiedades"/>
-<img src="screenshots/alquileres-2.png" width="200" alt="Detalle de contrato"/>
-<img src="screenshots/alquileres-6.png" width="200" alt="Detalle de abono"/>
-<img src="screenshots/alquileres-7.png" width="200" alt="Listado de contratos"/>
-<img src="screenshots/alquileres-8.png" width="200" alt="Formulario de creación de nuevo contrato"/>
-</div>
-
-<!-- Si grabas un vídeo demo, descomenta y sustituye el enlace:
-🎥 [Ver demo en vídeo](https://link-a-tu-video)
--->
-
-**Funcionalidades principales:**
-
-- Gestión de propiedades, contratos de alquiler y generación de informes fiscales.
-- Control de pagos asociados a cada propiedad.
-- Gestión de roles (propietario, agente)
-- Creación de espacios propios, posibilidad de seleccionar agentes/gestores.
-- Almacenamiento de documentos y archivos con **Firebase Storage** (póximamente).
-- Despliegue mediante **Firebase Hosting** o **AndroidApp** (próximamente iOS).
-
-**Stack técnico:**
-
-`Flutter/Dart` · `Firebase Firestore (NoSQL)` · `Firebase Storage` · `Firebase Hosting` · `Firebase Authentication` · `Android Studio`
-
----
-
-## 🛠️ Habilidades técnicas
-
-| Categoría | Tecnologías |
-|---|---|
-| Lenguajes | Java, Kotlin, Dart, Python (básico), php (básico), HTML (básico), CSS (básico), JS(básico) |
-| Móvil | Flutter, Android Studio |
-| Backend / BBDD | Spring Boot, Firebase, SQL, NoSQL |
-| Herramientas | IntelliJ IDEA, Visual Studio Code, Git/GitHub, Claude Code, Antigravity, MYSQLWorkbench, HeidiSQL, MongoDB |
-
----
-
-## 📫 Contacto
-
-¿Quieres hablar sobre alguno de estos proyectos o tienes una oportunidad para mí?
-
-- ✉️ **Email:** angelbelzunce@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/ángelbelzunce](https://www.linkedin.com/in/%C3%A1ngelbelzunce/)
-- 🐙 **GitHub:** [github.com/angelbelzunce](https://github.com/angelbelzunce)
-
-</div>
+¿Hablamos? Escríbeme desde el [formulario del portfolio](https://angelbelzunce.github.io/#contacto) o por [LinkedIn](https://linkedin.com/in/angelbelzunce).
