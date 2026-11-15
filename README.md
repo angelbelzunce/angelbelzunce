@@ -16,7 +16,11 @@
 
 ## 🙋 Sobre mí
 
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), orientado al desarrollo backend con Java y Spring Boot. Diseño APIs REST con datos consistentes, pruebas automáticas y despliegue con Docker.
+Desarrollador de software. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, orientado al desarrollo backend con Java y Spring Boot. Me centro en diseñar APIs REST bien estructuradas, con persistencia en bases de datos relacionales (PostgreSQL, MySQL), seguridad con JWT y comunicación entre microservicios mediante Kafka.
+
+Cuido la calidad del código con pruebas automáticas (JUnit, Mockito, Testcontainers) y trabajo con Docker y GitHub Actions para que todo sea reproducible y fácil de desplegar.
+
+Además de backend, he desarrollado y publicado una app móvil completa con Flutter y Firebase, de principio a fin: diseño, base de datos, lógica de negocio e interfaz. Estoy abierto a nuevas oportunidades como desarrollador backend.
 
 ---
 
