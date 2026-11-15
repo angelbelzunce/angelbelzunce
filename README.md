@@ -1,12 +1,14 @@
 <div align="center">
 
 # 👋 Ángel Belzunce
+
 ### Desarrollador backend · Java · Spring Boot · APIs REST · Microservicios
 
-📍 Villablanca, Huelva &nbsp;|&nbsp; ✉️ angelbelzunce@gmail.com &nbsp;|&nbsp; 🟢 Abierto a nuevas oportunidades
+📍 Villablanca, Huelva · 🟢 Abierto a nuevas oportunidades
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-angelbelzunce.github.io-e3b93c?style=for-the-badge)](https://angelbelzunce.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e3b93c?style=for-the-badge&logo=githubpages&logoColor=black)](https://angelbelzunce.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngelbelzunce/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelbelzunce@gmail.com)
 
 </div>
 
@@ -14,25 +16,34 @@
 
 ## 🙋 Sobre mí
 
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), orientado al desarrollo backend con Java y Spring Boot. Diseño APIs REST con datos consistentes, pruebas automáticas y despliegue con Docker. Antes de dedicarme al software pasé 17 años gestionando negocios, lo que me ha dado autonomía y trato directo con clientes.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), orientado al desarrollo backend con Java y Spring Boot. Diseño APIs REST con datos consistentes, pruebas automáticas y despliegue con Docker.
 
 ---
 
 ## 🚀 Proyectos
 
 ### 🏦 API REST Bancaria
+
 Backend de un banco sencillo con dos microservicios (cuentas y notificaciones) comunicados por eventos con Kafka.
-`Java 21` · `Spring Boot` · `PostgreSQL` · `Kafka` · `Docker` · `Testcontainers`
-🔗 [Ver código](https://github.com/angelbelzunce/mini-banco)
+
+**Stack:** `Java 21` · `Spring Boot` · `PostgreSQL` · `Kafka` · `Docker` · `Testcontainers`
+
+🔗 [Ver código en GitHub](https://github.com/angelbelzunce/mini-banco)
 
 ### 💸 API REST Gastos Compartidos *(en desarrollo)*
-API para repartir gastos en grupo: usuarios, grupos, invitaciones y pagos, con autenticación JWT.
-`Java 21` · `Spring Boot` · `Spring Security` · `JWT` · `PostgreSQL` · `Flyway`
-🔗 [Ver código](https://github.com/angelbelzunce/shared-expenses-api)
 
-### 🏋️ myRoutine — app de rutinas de gimnasio
-App Android para planificar la semana de entrenamiento, registrar series y seguir la evolución de la fuerza. Desarrollada de principio a fin, disponible en Google Play.
-`Flutter` · `Firebase` · `Cloud Functions` · `Google Play Billing`
+API para repartir gastos en grupo: usuarios, grupos, invitaciones y pagos, con autenticación JWT.
+
+**Stack:** `Java 21` · `Spring Boot` · `Spring Security` · `JWT` · `PostgreSQL` · `Flyway`
+
+🔗 [Ver código en GitHub](https://github.com/angelbelzunce/shared-expenses-api)
+
+### 🏋️ myRoutine · app de rutinas de gimnasio
+
+App Android para planificar la semana de entrenamiento, registrar series y seguir la evolución de la fuerza. Desarrollada de principio a fin y disponible en Google Play.
+
+**Stack:** `Flutter` · `Firebase` · `Cloud Functions` · `Google Play Billing`
+
 🌐 [myroutinefit.com](https://myroutinefit.com)
 
 <div align="center">
@@ -47,9 +58,11 @@ App Android para planificar la semana de entrenamiento, registrar series y segui
 <img src="screenshots/myroutine-8.png" width="200" alt="Compartir entrenamiento"/>
 </div>
 
-### 🏠 Rently — gestión de alquileres
+### 🏠 Rently · gestión de alquileres
+
 App para gestionar propiedades en alquiler: inquilinos, contratos, pagos y documentación.
-`Flutter` · `Firebase`
+
+**Stack:** `Flutter` · `Firebase`
 
 <div align="center">
 <img src="screenshots/alquileres-4.png" width="200" alt="Centro de espacios"/>
@@ -78,8 +91,6 @@ App para gestionar propiedades en alquiler: inquilinos, contratos, pagos y docum
 
 <div align="center">
 
-[![Escríbeme](https://img.shields.io/badge/✉️_Escríbeme_desde_el_formulario-e3b93c?style=for-the-badge)](https://angelbelzunce.github.io/#contacto)
+[![Formulario de contacto](https://img.shields.io/badge/Formulario_de_contacto-e3b93c?style=for-the-badge&logo=githubpages&logoColor=black)](https://angelbelzunce.github.io/#contacto)
 
 </div>
-
-También por [LinkedIn](https://www.linkedin.com/in/%C3%A1ngelbelzunce/) o a angelbelzunce@gmail.com.
