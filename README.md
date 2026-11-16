@@ -16,7 +16,7 @@
 
 ## 🙋 Sobre mí
 
-Desarrollador de software. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, orientado al desarrollo backend con Java y Spring Boot. Me centro en diseñar APIs REST bien estructuradas, con persistencia en bases de datos relacionales (PostgreSQL, MySQL), seguridad con JWT y comunicación entre microservicios mediante Kafka.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), orientado al desarrollo backend con Java y Spring Boot. Me centro en diseñar APIs REST bien estructuradas, con persistencia en bases de datos relacionales (PostgreSQL, MySQL), seguridad con JWT y comunicación entre microservicios mediante Kafka.
 
 Cuido la calidad del código con pruebas automáticas (JUnit, Mockito, Testcontainers) y trabajo con Docker y GitHub Actions para que todo sea reproducible y fácil de desplegar.
 
@@ -48,7 +48,7 @@ App Android para planificar la semana de entrenamiento, registrar series y segui
 
 **Stack:** `Flutter` · `Firebase` · `Cloud Functions` · `Google Play Billing`
 
-🌐 [myroutinefit.com](https://myroutinefit.com)
+📱 [Descargar en Google Play](https://play.google.com/store/apps/details?id=com.angelbelzunce.myroutine) · 🌐 [myroutinefit.com](https://myroutinefit.com)
 
 <div align="center">
 <img src="screenshots/myroutine-1.png" width="200" alt="Plan semanal"/>
