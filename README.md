@@ -19,7 +19,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, orientado al de
 
 Cuido la calidad del código con pruebas automáticas (JUnit, Mockito, Testcontainers) y trabajo con Docker y GitHub Actions para que todo sea reproducible y fácil de desplegar.
 
-Además de backend, he desarrollado y publicado una app móvil completa con Flutter y Firebase, de principio a fin: diseño, base de datos, lógica de negocio e interfaz. Estoy abierto a nuevas oportunidades como desarrollador backend.
+Además de backend, he desarrollado y publicado una app móvil completa con Flutter y Firebase, de principio a fin: diseño, base de datos, lógica de negocio e interfaz.
 
 ---
 
