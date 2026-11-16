@@ -4,8 +4,6 @@
 
 ### Desarrollador backend · Java · Spring Boot · APIs REST · Microservicios
 
-📍 Villablanca, Huelva · 🟢 Abierto a nuevas oportunidades
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-e3b93c?style=for-the-badge&logo=githubpages&logoColor=black)](https://angelbelzunce.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ngelbelzunce/)
 
