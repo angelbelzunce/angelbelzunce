@@ -48,7 +48,9 @@ App Android para planificar la semana de entrenamiento, registrar series y segui
 
 **Stack:** `Flutter` · `Firebase` · `Cloud Functions` · `Google Play Billing`
 
-📱 [Descargar en Google Play](https://play.google.com/store/apps/details?id=com.angelbelzunce.myroutine) · 🌐 [myroutinefit.com](https://myroutinefit.com)
+<a href="https://play.google.com/store/apps/details?id=com.angelbelzunce.myroutine"><img src="https://angelbelzunce.github.io/img/google-play-badge.png" height="60" alt="Descargar en Google Play"/></a>
+
+🌐 [myroutinefit.com](https://myroutinefit.com)
 
 <div align="center">
 <img src="screenshots/myroutine-1.png" width="200" alt="Plan semanal"/>
