@@ -29,7 +29,7 @@ Backend de un banco sencillo con dos microservicios (cuentas y notificaciones) c
 
 **Stack:** `Java 21` · `Spring Boot` · `PostgreSQL` · `Kafka` · `Docker` · `Testcontainers`
 
-🔗 [Ver código en GitHub](https://github.com/angelbelzunce/mini-banco)
+🔗 [Ver código en GitHub](https://github.com/angelbelzunce/api-rest-bancaria)
 
 ### 💸 API REST Gastos Compartidos *(en desarrollo)*
 
